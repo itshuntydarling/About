@@ -9,7 +9,7 @@
 
 <h2 align="left">Statistic:</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=itshuntydarling&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itshuntydarling&theme=highcontrast&hide_border=true&include_all_commits=true+&count_private=false)<br/>
 
 <h2 align="left">Now playing:</h1>
 
