@@ -1,7 +1,11 @@
-<h1 align="center">Hi , I'm Daniel</h1>
-<h3 align="center">A Roblox 3D Modeler who working on creating virtual "concerts"</h3>
+<h1 align="left">Hi , I'm Daniel</h1>
+<h3 align="left">A Roblox 3D Modeler who working on creating virtual "concerts"</h3>
 
-<h3 align="center">Tools:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h2 align="left">Tools:</h2>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/RWCUeoU.png" alt="blender" width="55" height="55"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/pJNlJVa.png" alt="photoshop" width="55" height="55"/> </a> <a href="https://www.clipstudio.net/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/4pV4TFL.png" alt="clip studio paint" width="55" height="55"/> </a> <a href="https://devforum.roblox.com/u/huntydariing/summary" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Ylyhcds.png" alt="roblox studio" width="55" height="55"/> </a> </p>
+
+
+
+<h2 align="left">Now playing:</h1>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ia4dyrdyh7f0xr37p2it2rrzd&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ebebeb&bar_color_cover=false)
