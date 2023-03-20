@@ -2,7 +2,7 @@
 <h3 align="left">A Roblox 3D Modeler who working on creating virtual "concerts"</h3>
 
 <h2 align="left">Tools:</h2>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/RWCUeoU.png" alt="blender" width="55" height="55"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/pJNlJVa.png" alt="photoshop" width="55" height="55"/> </a> <a href="https://www.clipstudio.net/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/4pV4TFL.png" alt="clip studio paint" width="55" height="55"/> </a> <a href="https://devforum.roblox.com/u/huntydariing/summary" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Ylyhcds.png" alt="roblox studio" width="55" height="55"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/RWCUeoU.png" alt="blender" width="55" height="55"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/pJNlJVa.png" alt="photoshop" width="55" height="55"/> </a> <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/4pV4TFL.png" alt="clip studio paint" width="55" height="55"/> </a> <a href="https://devforum.roblox.com/u/huntydariing/summary" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Ylyhcds.png" alt="roblox studio" width="55" height="55"/> </a> </p>
 
 
 
